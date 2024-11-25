@@ -1,4 +1,4 @@
-# Mô Hình Vector AutoRegression (VAR) - Tài Liệu
+# Mô Hình Vector AutoRegression (VAR) 
 
 ## Mục Lục
 1. [Vector AutoRegression là gì?](#vector-autoregression-là-gì)
